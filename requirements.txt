@@ -1,0 +1,6 @@
+PyYAML==6.0
+dacite==1.6.*
+boto3==1.26.129
+Pillow==10.0.0
+requests==2.31.0
+pandas==2.1.0

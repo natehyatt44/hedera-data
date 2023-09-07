@@ -1,0 +1,1642 @@
+[
+  {
+    "serial_number": 40,
+    "edition": 440,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Runekin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bandaid"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Long Wavy Runekin"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Pumpkin"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 39,
+    "edition": 439,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Straps"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Rebel"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shouting"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 38,
+    "edition": 438,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Runekin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Suspicious"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Long Wavy Runekin"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 37,
+    "edition": 437,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Straps"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Suspicious"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Natural Fungus"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Emerald"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 36,
+    "edition": 436,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Royal Runekin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Rebel"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Gold Hoop"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shouting"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 35,
+    "edition": 435,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Villager Tunic"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Suspicious"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Elk Fungus"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 34,
+    "edition": 434,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Navy Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Nordic Auras"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bandaid"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Long Wavy Runekin"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Pumpkin"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shouting"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 33,
+    "edition": 433,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Nordic Auras"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bandaid"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Natural Fungus"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shouting"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 32,
+    "edition": 432,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Royal Runekin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Into Nothingness"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Alchemist Hat"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Radioactive Pipe"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 31,
+    "edition": 431,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Navy Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Runekin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Suspicious"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Rebel"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Pumpkin"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shouting"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 30,
+    "edition": 430,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bowman"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Long Wavy"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 29,
+    "edition": 429,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ocean Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Runekin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bandaid"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Long Wavy Villager Tunic"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shouting"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 28,
+    "edition": 428,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Royal Runekin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Long Wavy Bowman"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Golden Sphere"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shouting"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 27,
+    "edition": 427,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Natural Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bowman"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bandaid"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Rebel"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Golden Sphere"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Radioactive Pipe"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 26,
+    "edition": 426,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Off White"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Straps"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Ponytail"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Golden Sphere"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 25,
+    "edition": 425,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Royal Runekin"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Alchemist Hat"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shouting"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 24,
+    "edition": 424,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Villager Tunic"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Ponytail"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Pumpkin"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shouting"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 23,
+    "edition": 423,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Navy Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Nordic Auras"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Into Nothingness"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Natural Fungus"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 22,
+    "edition": 422,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Bowman"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Ponytail"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 21,
+    "edition": 421,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ocean Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Villager Tunic With Pendant"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bandaid"
+      },
+      {
+        "trait_type": "Hair Hat",
+        "value": "Ponytail"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ponytail Beard"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Runekin"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 20,
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Navy Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Clawed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Seaweed Green"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 19,
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Hollowed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Skeleton Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Royal Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Cocktail Eyes"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 18,
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Natural Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Battle Tested"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Purple Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Tree Nose White"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Thorn Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 17,
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Hollowed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Seaweed Red"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Butterflies"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 16,
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ocean Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Hollowed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Thorn Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Guardian"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 15,
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Clawed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Seaweed Green"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 14,
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Hollowed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Seaweed Red"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Guardian"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 13,
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Natural Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Battle Tested"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Skeleton Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Thorn Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 12,
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Hollowed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Purple Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Seaweed Blue"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Guardian"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 11,
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Hollowed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Tree Nose White"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Thorn Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Cocktail Eyes"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 10,
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Battle Tested"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Skeleton Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Tree Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Thorn Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 9,
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Natural Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Clawed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Tree Nose White"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Seaweed Rust"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Butterflies"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 8,
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ocean Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Hollowed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Royal Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Guardian"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 7,
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Clawed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Skeleton Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Seaweed With Horns"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 6,
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moss"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Battle Tested"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Tree Nose White"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Thorn Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 5,
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Navy Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Battle Tested"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Multi Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Skeleton"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Tree Nose White"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Thorn Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 4,
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Ocean Blue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Normal"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Clawed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blind Fighter Blue"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Seaweed Green"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Butterflies"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 1
+  },
+  {
+    "serial_number": 3,
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Gray"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Clawed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Multi Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Seaweed Blue"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 2,
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Clawed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Multi Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Royal Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 0
+  },
+  {
+    "serial_number": 1,
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Natural Green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "White"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "Clawed"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Multi Eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Serious"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Skeleton Nose"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Thorn Crown"
+      },
+      {
+        "trait_type": "Outside",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Race",
+        "value": "Gaian"
+      }
+    ],
+    "playable": 0
+  }
+]
