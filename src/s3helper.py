@@ -2,6 +2,7 @@ import boto3
 import io
 import json
 import pandas as pd
+import base64
 from datetime import datetime, timedelta
 from botocore.exceptions import NoCredentialsError, PartialCredentialsError, ClientError
 
