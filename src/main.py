@@ -20,7 +20,7 @@ def main():
 
 while True:
     main()
-    time.sleep(500)  # Sleeps for 300 seconds, which is 5 minutes
+    time.sleep(600)  # Sleeps for 600 seconds, which is 10 minutes
 
 if __name__ == "__main__":
     main()
