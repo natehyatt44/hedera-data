@@ -1,5 +1,5 @@
-import pipelineNftListing
-import pipelineNftSales
+import src.pipelineNftListing as pipelineNftListing
+import src.pipelineNftSales as pipelineNftSales
 import time
 
 TOKEN_CFP = '0.0.2235264'

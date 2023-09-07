@@ -7,7 +7,7 @@ import pandas as pd
 import os
 import base64
 import re
-import s3helper
+import src.s3helper as s3helper
 
 API_CALL_LIMIT = 20
 
