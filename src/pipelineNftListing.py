@@ -47,7 +47,10 @@ def compare_nfts_with_existing_data(token_id, config, nft_data):
     last_nft_listing_ts = config["last_nft_listing_ts"]
 
     if pd.notna(last_nft_listing_ts):
-        updated_nft_df = current_nft_df[current_nft_df['modified_timestamp'] > float(last_nft_listing_ts)]
+        updated_nft_df = current_nft_df[
+                                        (current_nft_df['modified_timestamp'] > float(last_nft_listing_ts)) &
+                                        (current_nft_df['spender'] != 'SentX')
+                                       ]
     else:
         updated_nft_df = current_nft_df
 
@@ -158,11 +161,6 @@ def nft_listings(token_id, transactions):
     if listings:
         # listings not empty
         new_listings_df = pd.DataFrame(listings)
-
-        # Convert the columns to string type for consistency
-        # columns_to_convert = ['account_id_seller', 'token_id', 'serial_number']
-        # for column in columns_to_convert:
-        #     new_listings_df[column] = new_listings_df[column].astype(str)
 
         # Pull existing list data, merge, and re-upload
         existing_listings_df = s3helper.read_df_s3(token_id, 'nft_listings.csv')

@@ -1,4 +1,5 @@
 import src.pipelineNftListing as pipelineNftListing
+import src.pipelineNftListingSentX as pipelineNftListingSentX
 import src.pipelineNftSales as pipelineNftSales
 import time
 
@@ -15,6 +16,7 @@ def main():
     market_ids = [MARKET_ZUSE, MARKET_SENTX]
     for token_id in token_ids:
         pipelineNftListing.execute(token_id)
+        pipelineNftListingSentX.execute(token_id)
 
     pipelineNftSales.execute(token_ids, market_ids)
 

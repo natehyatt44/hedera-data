@@ -1,5 +1,2805 @@
 [
   {
+    "serial_number": 440,
+    "edition": 63,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 439,
+    "edition": 207,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 438,
+    "edition": 287,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 437,
+    "edition": 274,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 436,
+    "edition": 42,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 435,
+    "edition": 275,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 434,
+    "edition": 253,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 433,
+    "edition": 310,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 432,
+    "edition": 413,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 431,
+    "edition": 302,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 430,
+    "edition": 135,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 429,
+    "edition": 351,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 428,
+    "edition": 185,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 427,
+    "edition": 120,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 426,
+    "edition": 200,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 425,
+    "edition": 125,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 424,
+    "edition": 188,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 423,
+    "edition": 98,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 422,
+    "edition": 30,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 421,
+    "edition": 87,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 420,
+    "edition": 167,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 419,
+    "edition": 219,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 418,
+    "edition": 142,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 417,
+    "edition": 130,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 416,
+    "edition": 355,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 415,
+    "edition": 27,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 414,
+    "edition": 86,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 413,
+    "edition": 137,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 412,
+    "edition": 157,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 411,
+    "edition": 331,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 410,
+    "edition": 353,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 409,
+    "edition": 296,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 408,
+    "edition": 144,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 407,
+    "edition": 40,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 406,
+    "edition": 389,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 405,
+    "edition": 173,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 404,
+    "edition": 244,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 403,
+    "edition": 286,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 402,
+    "edition": 55,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 401,
+    "edition": 381,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 400,
+    "edition": 225,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 399,
+    "edition": 213,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 398,
+    "edition": 394,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 397,
+    "edition": 156,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 396,
+    "edition": 104,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 395,
+    "edition": 367,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 394,
+    "edition": 147,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 393,
+    "edition": 191,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 392,
+    "edition": 41,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 391,
+    "edition": 273,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 390,
+    "edition": 111,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 389,
+    "edition": 25,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 388,
+    "edition": 163,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 387,
+    "edition": 121,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 386,
+    "edition": 313,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 385,
+    "edition": 314,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 384,
+    "edition": 363,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 383,
+    "edition": 105,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 382,
+    "edition": 258,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 381,
+    "edition": 403,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 380,
+    "edition": 255,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 379,
+    "edition": 138,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 378,
+    "edition": 212,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 377,
+    "edition": 94,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 376,
+    "edition": 280,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 375,
+    "edition": 358,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 374,
+    "edition": 321,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 373,
+    "edition": 23,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 372,
+    "edition": 92,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 371,
+    "edition": 99,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 370,
+    "edition": 197,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 369,
+    "edition": 382,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 368,
+    "edition": 418,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 367,
+    "edition": 96,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 366,
+    "edition": 384,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 365,
+    "edition": 337,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 364,
+    "edition": 118,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 363,
+    "edition": 240,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 362,
+    "edition": 88,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 361,
+    "edition": 334,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 360,
+    "edition": 261,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 359,
+    "edition": 217,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 358,
+    "edition": 323,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 357,
+    "edition": 218,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 356,
+    "edition": 245,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 355,
+    "edition": 328,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 354,
+    "edition": 232,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 353,
+    "edition": 397,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 352,
+    "edition": 181,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 351,
+    "edition": 281,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 350,
+    "edition": 134,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 349,
+    "edition": 152,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 348,
+    "edition": 83,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 347,
+    "edition": 319,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 346,
+    "edition": 97,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 345,
+    "edition": 260,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 344,
+    "edition": 377,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 343,
+    "edition": 372,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 342,
+    "edition": 24,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 341,
+    "edition": 64,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 340,
+    "edition": 190,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 339,
+    "edition": 151,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 338,
+    "edition": 57,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 337,
+    "edition": 326,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 336,
+    "edition": 272,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 335,
+    "edition": 303,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 334,
+    "edition": 330,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 333,
+    "edition": 47,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 332,
+    "edition": 159,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 331,
+    "edition": 140,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 330,
+    "edition": 166,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 329,
+    "edition": 205,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 328,
+    "edition": 317,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 327,
+    "edition": 208,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 326,
+    "edition": 371,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 325,
+    "edition": 129,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 324,
+    "edition": 195,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 323,
+    "edition": 237,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 322,
+    "edition": 175,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 321,
+    "edition": 368,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 320,
+    "edition": 60,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 319,
+    "edition": 395,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 318,
+    "edition": 295,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 317,
+    "edition": 102,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 316,
+    "edition": 209,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 315,
+    "edition": 291,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 314,
+    "edition": 161,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 313,
+    "edition": 410,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 312,
+    "edition": 210,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 311,
+    "edition": 312,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 310,
+    "edition": 324,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 309,
+    "edition": 250,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 308,
+    "edition": 33,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 307,
+    "edition": 80,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 306,
+    "edition": 59,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 305,
+    "edition": 93,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 304,
+    "edition": 204,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 303,
+    "edition": 256,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 302,
+    "edition": 243,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 301,
+    "edition": 393,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 300,
+    "edition": 392,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 299,
+    "edition": 71,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 298,
+    "edition": 292,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 297,
+    "edition": 406,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 296,
+    "edition": 284,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 295,
+    "edition": 346,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 294,
+    "edition": 252,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 293,
+    "edition": 201,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 292,
+    "edition": 234,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 291,
+    "edition": 67,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 290,
+    "edition": 417,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 289,
+    "edition": 283,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 288,
+    "edition": 126,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 287,
+    "edition": 339,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 286,
+    "edition": 387,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 285,
+    "edition": 278,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 284,
+    "edition": 376,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 283,
+    "edition": 203,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 282,
+    "edition": 289,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 281,
+    "edition": 58,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 280,
+    "edition": 345,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 279,
+    "edition": 108,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 278,
+    "edition": 114,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 277,
+    "edition": 21,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 276,
+    "edition": 145,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 275,
+    "edition": 73,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 274,
+    "edition": 228,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 273,
+    "edition": 409,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 272,
+    "edition": 172,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 271,
+    "edition": 164,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 270,
+    "edition": 301,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 269,
+    "edition": 192,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 268,
+    "edition": 365,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 267,
+    "edition": 224,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 266,
+    "edition": 308,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 265,
+    "edition": 183,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 264,
+    "edition": 294,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 263,
+    "edition": 415,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 262,
+    "edition": 226,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 261,
+    "edition": 239,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 260,
+    "edition": 154,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 259,
+    "edition": 263,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 258,
+    "edition": 276,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 257,
+    "edition": 416,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 256,
+    "edition": 259,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 255,
+    "edition": 168,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 254,
+    "edition": 61,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 253,
+    "edition": 262,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 252,
+    "edition": 37,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 251,
+    "edition": 107,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 250,
+    "edition": 178,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 249,
+    "edition": 344,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 248,
+    "edition": 78,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 247,
+    "edition": 133,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 246,
+    "edition": 143,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 245,
+    "edition": 236,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 244,
+    "edition": 70,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 243,
+    "edition": 341,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 242,
+    "edition": 180,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 241,
+    "edition": 335,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 240,
+    "edition": 270,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 239,
+    "edition": 257,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 238,
+    "edition": 35,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 237,
+    "edition": 288,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 236,
+    "edition": 349,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 235,
+    "edition": 369,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 234,
+    "edition": 336,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 233,
+    "edition": 29,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 232,
+    "edition": 354,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 231,
+    "edition": 176,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 230,
+    "edition": 124,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 229,
+    "edition": 85,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 228,
+    "edition": 300,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 227,
+    "edition": 282,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 226,
+    "edition": 223,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 225,
+    "edition": 388,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 224,
+    "edition": 186,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 223,
+    "edition": 269,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 222,
+    "edition": 357,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 221,
+    "edition": 52,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 220,
+    "edition": 309,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 219,
+    "edition": 198,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 218,
+    "edition": 158,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 217,
+    "edition": 370,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 216,
+    "edition": 184,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 215,
+    "edition": 153,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 214,
+    "edition": 75,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 213,
+    "edition": 264,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 212,
+    "edition": 112,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 211,
+    "edition": 127,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 210,
+    "edition": 196,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 209,
+    "edition": 48,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 208,
+    "edition": 398,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 207,
+    "edition": 320,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 206,
+    "edition": 165,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 205,
+    "edition": 34,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 204,
+    "edition": 53,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 203,
+    "edition": 193,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 202,
+    "edition": 170,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 201,
+    "edition": 155,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 200,
+    "edition": 220,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 199,
+    "edition": 206,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 198,
+    "edition": 304,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 197,
+    "edition": 136,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 196,
+    "edition": 390,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 195,
+    "edition": 238,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 194,
+    "edition": 383,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 193,
+    "edition": 356,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 192,
+    "edition": 265,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 191,
+    "edition": 401,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 190,
+    "edition": 211,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 189,
+    "edition": 100,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 188,
+    "edition": 62,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 187,
+    "edition": 117,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 186,
+    "edition": 32,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 185,
+    "edition": 141,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 184,
+    "edition": 322,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 183,
+    "edition": 51,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 182,
+    "edition": 305,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 181,
+    "edition": 113,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 180,
+    "edition": 343,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 179,
+    "edition": 399,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 178,
+    "edition": 233,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 177,
+    "edition": 221,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 176,
+    "edition": 404,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 175,
+    "edition": 362,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 174,
+    "edition": 299,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 173,
+    "edition": 49,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 172,
+    "edition": 400,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 171,
+    "edition": 249,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 170,
+    "edition": 222,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 169,
+    "edition": 342,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 168,
+    "edition": 227,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 167,
+    "edition": 277,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 166,
+    "edition": 90,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 165,
+    "edition": 72,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 164,
+    "edition": 171,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 163,
+    "edition": 293,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 162,
+    "edition": 361,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 161,
+    "edition": 26,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 160,
+    "edition": 148,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 159,
+    "edition": 131,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 158,
+    "edition": 385,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 157,
+    "edition": 189,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 156,
+    "edition": 116,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 155,
+    "edition": 91,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 154,
+    "edition": 268,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 153,
+    "edition": 149,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 152,
+    "edition": 82,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 151,
+    "edition": 68,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 150,
+    "edition": 128,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 149,
+    "edition": 348,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 148,
+    "edition": 230,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 147,
+    "edition": 386,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 146,
+    "edition": 28,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 145,
+    "edition": 50,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 144,
+    "edition": 248,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 143,
+    "edition": 36,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 142,
+    "edition": 77,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 141,
+    "edition": 146,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 140,
+    "edition": 307,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 139,
+    "edition": 298,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 138,
+    "edition": 411,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 137,
+    "edition": 215,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 136,
+    "edition": 338,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 135,
+    "edition": 38,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 134,
+    "edition": 325,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 133,
+    "edition": 216,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 132,
+    "edition": 266,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 131,
+    "edition": 84,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 130,
+    "edition": 54,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 129,
+    "edition": 139,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 128,
+    "edition": 242,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 127,
+    "edition": 150,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 126,
+    "edition": 333,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 125,
+    "edition": 76,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 124,
+    "edition": 412,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 123,
+    "edition": 169,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 122,
+    "edition": 122,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 121,
+    "edition": 101,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 120,
+    "edition": 407,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 119,
+    "edition": 347,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 118,
+    "edition": 56,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 117,
+    "edition": 214,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 116,
+    "edition": 366,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 115,
+    "edition": 39,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 114,
+    "edition": 327,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 113,
+    "edition": 177,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 112,
+    "edition": 74,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 111,
+    "edition": 194,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 110,
+    "edition": 46,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 109,
+    "edition": 81,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 108,
+    "edition": 364,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 107,
+    "edition": 187,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 106,
+    "edition": 378,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 105,
+    "edition": 408,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 104,
+    "edition": 414,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 103,
+    "edition": 22,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 102,
+    "edition": 285,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 101,
+    "edition": 373,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 100,
+    "edition": 254,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 99,
+    "edition": 246,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 98,
+    "edition": 109,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 97,
+    "edition": 396,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 96,
+    "edition": 374,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 95,
+    "edition": 316,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 94,
+    "edition": 45,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 93,
+    "edition": 199,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 92,
+    "edition": 332,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 91,
+    "edition": 315,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 90,
+    "edition": 103,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 89,
+    "edition": 182,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 88,
+    "edition": 279,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 87,
+    "edition": 360,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 86,
+    "edition": 375,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 85,
+    "edition": 329,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 84,
+    "edition": 202,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 83,
+    "edition": 297,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 82,
+    "edition": 391,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 81,
+    "edition": 241,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 80,
+    "edition": 229,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 79,
+    "edition": 115,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 78,
+    "edition": 69,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 77,
+    "edition": 162,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 76,
+    "edition": 89,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 75,
+    "edition": 174,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 74,
+    "edition": 402,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 73,
+    "edition": 43,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 72,
+    "edition": 79,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 71,
+    "edition": 311,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 70,
+    "edition": 350,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 69,
+    "edition": 306,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 68,
+    "edition": 66,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 67,
+    "edition": 379,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 66,
+    "edition": 271,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 65,
+    "edition": 106,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 64,
+    "edition": 419,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 63,
+    "edition": 31,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 62,
+    "edition": 290,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 61,
+    "edition": 231,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 60,
+    "edition": 420,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 59,
+    "edition": 405,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 58,
+    "edition": 160,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 57,
+    "edition": 44,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 56,
+    "edition": 110,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 55,
+    "edition": 352,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 54,
+    "edition": 380,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 53,
+    "edition": 132,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 52,
+    "edition": 65,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 51,
+    "edition": 179,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 50,
+    "edition": 267,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 49,
+    "edition": 318,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 48,
+    "edition": 119,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 47,
+    "edition": 247,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 46,
+    "edition": 235,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 45,
+    "edition": 340,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 44,
+    "edition": 95,
+    "playable": 1,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 43,
+    "edition": 251,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
+    "serial_number": 42,
+    "edition": 123,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Gaian"
+  },
+  {
+    "serial_number": 41,
+    "edition": 359,
+    "playable": 0,
+    "tokenId": "0.0.3721853",
+    "race": "Runekin"
+  },
+  {
     "serial_number": 40,
     "edition": 440,
     "playable": 0,

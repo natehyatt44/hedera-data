@@ -1,11 +1,8 @@
 import requests
 import json
 import time
-from dotenv import load_dotenv
 import os
 import base64
-
-load_dotenv()
 
 
 token_id = '0.0.3721853'
@@ -76,13 +73,13 @@ def is_playable(item):
     return False
 
 def main():
-    # nft_data = fetch_nfts_from_mirror_node()
-    # with open('nftMirroNodeLO.json', 'w') as f:
-    #     json.dump(nft_data, f, indent=2)
-    #
-    # nft_data_with_ipfs = fetch_ipfs_metadata(nft_data)
-    # with open('nftIpfsLO.json', 'w') as f:
-    #     json.dump(nft_data_with_ipfs, f, indent=2)
+    nft_data = fetch_nfts_from_mirror_node()
+    with open('nftMirroNodeLO.json', 'w') as f:
+        json.dump(nft_data, f, indent=2)
+
+    nft_data_with_ipfs = fetch_ipfs_metadata(nft_data)
+    with open('nftIpfsLO.json', 'w') as f:
+        json.dump(nft_data_with_ipfs, f, indent=2)
 
     with open('nftIpfsLO.json', 'r') as f:
         data_from_file = json.load(f)
