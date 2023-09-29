@@ -2,6 +2,7 @@ import src.pipelineNftListing as pipelineNftListing
 import src.pipelineNftListingSentX as pipelineNftListingSentX
 import src.pipelineNftSales as pipelineNftSales
 import time
+import traceback
 
 TOKEN_CFP = '0.0.2235264'
 TOKEN_AIRDROP = '0.0.2371643'
@@ -20,9 +21,18 @@ def main():
 
     pipelineNftSales.execute(token_ids, market_ids)
 
+
+def run_main_with_retry():
+    while True:
+        try:
+            main()
+            time.sleep(600)  # Sleeps for 600 seconds, which is 10 minutes
+        except Exception as e:
+            print(f"An error occurred: {e}")
+            print("Retrying in 5 minutes...")
+            traceback.print_exc()  # prints detailed traceback
+            time.sleep(300)  # Sleeps for 300 seconds, which is 5 minutes
+
+
 if __name__ == "__main__":
-    main()
-
-
-
-
+    run_main_with_retry()
