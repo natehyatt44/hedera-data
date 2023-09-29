@@ -20,10 +20,6 @@ def main():
 
     pipelineNftSales.execute(token_ids, market_ids)
 
-while True:
-    main()
-    time.sleep(600)  # Sleeps for 600 seconds, which is 10 minutes
-
 if __name__ == "__main__":
     main()
 
