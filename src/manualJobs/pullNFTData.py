@@ -69,6 +69,16 @@ def is_playable(item):
         print (traits)
         return traits.get('Eyes') == 'Angry' or traits.get('Clothes') == 'Villager Tunic With Pendant'
 
+    # Condition for Soulweaver
+    if traits.get('Race') == 'Soulweaver':
+        print(traits)
+        return traits.get('Body') == 'Fire' or traits.get('Smoke') in ['Vape Skull Smoke', 'Vape Smoke'] or traits.get("Eyes Mask") in ['Smoke', 'Kitsune Mask']
+
+    # Condition for Zephyr
+    if traits.get('Race') == 'Zephyr':
+        print(traits)
+        return traits.get('Eye Wear') != 'Blank' or traits.get('Body') == 'Rainbow' or traits.get('Clothes') == 'Rainbow Suit'
+
     # If none of the conditions are met, return False
     return False
 

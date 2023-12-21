@@ -5,7 +5,7 @@ import os
 import base64
 
 
-token_id = '0.0.3721853'
+token_id = '0.0.3954030'
 
 def fetch_with_retries(url, max_retries = 3):
     retries = 0
@@ -52,36 +52,37 @@ def fetch_ipfs_metadata(nft_data):
             ipfs_metadata_response = fetch_with_retries(f'{ipfs_gateway}{nft["ipfsCid"]}')
             ipfs_metadata = ipfs_metadata_response.json()
             nft['edition'] = ipfs_metadata['edition']
-            nft['attributes'] = ipfs_metadata['attributes']
+            #nft['attributes'] = ipfs_metadata['attributes']
     return nft_data
 
 def is_playable(item):
     # Extract the traits for easier checking
-    traits = {trait['trait_type']: trait['value'] for trait in item['attributes']}
-
-    # Condition for Gaian
-    if traits.get('Race') == 'Gaian':
-        return traits.get('Eyes') in ['Blind Fighter Red', 'Blind Fighter Blue'] or traits.get(
-            'Mouth') == 'Skeleton'
-
-    # Condition for Runekin
-    if traits.get('Race') == 'Runekin':
-        return traits.get('Eyes') == 'Angry' or traits.get('Clothes') == 'Villager Tunic With Pendant'
-
-    # Condition for Soulweaver
-    if traits.get('Race') == 'Soulweaver':
-        return traits.get('Body') == 'Fire' or traits.get('Smoke') in ['Vape Skull Smoke', 'Vape Smoke'] or traits.get("Eyes Mask") in ['Smoke', 'Kitsune Mask'] or traits.get('Background') == 'Alixon Special'
-
-    # Condition for Zephyr
-    if traits.get('Race') == 'Zephyr':
-        return traits.get('Eye Wear') != 'Blank' or traits.get('Body') == 'Rainbow' or traits.get('Clothes') == 'Rainbow Suit' or traits.get('Background') == 'Alixon Special'
-
-    # Condition for ArchAngel
-    if traits.get('Race') == 'ArchAngel':
-        return
-
-    # If none of the conditions are met, return False
-    return False
+    return 1
+    # traits = {trait['trait_type']: trait['value'] for trait in item['attributes']}
+    #
+    # # Condition for Gaian
+    # if traits.get('Race') == 'Gaian':
+    #     return traits.get('Eyes') in ['Blind Fighter Red', 'Blind Fighter Blue'] or traits.get(
+    #         'Mouth') == 'Skeleton'
+    #
+    # # Condition for Runekin
+    # if traits.get('Race') == 'Runekin':
+    #     return traits.get('Eyes') == 'Angry' or traits.get('Clothes') == 'Villager Tunic With Pendant'
+    #
+    # # Condition for Soulweaver
+    # if traits.get('Race') == 'Soulweaver':
+    #     return traits.get('Body') == 'Fire' or traits.get('Smoke') in ['Vape Skull Smoke', 'Vape Smoke'] or traits.get("Eyes Mask") in ['Smoke', 'Kitsune Mask'] or traits.get('Background') == 'Alixon Special'
+    #
+    # # Condition for Zephyr
+    # if traits.get('Race') == 'Zephyr':
+    #     return traits.get('Eye Wear') != 'Blank' or traits.get('Body') == 'Rainbow' or traits.get('Clothes') == 'Rainbow Suit' or traits.get('Background') == 'Alixon Special'
+    #
+    # # Condition for ArchAngel
+    # if traits.get('Race') == 'ArchAngel':
+    #     return
+    #
+    # # If none of the conditions are met, return False
+    # return False
 
 def upload_file_to_s3(file_path, bucket, object_name):
     """
@@ -95,40 +96,23 @@ def upload_file_to_s3(file_path, bucket, object_name):
         print(f"Error uploading file to S3: {e}")
 
 def main():
-    # Fetch data for both token IDs
-    global token_id
-    token_ids = ['0.0.3721853', '0.0.2235264']
-
     result_data = []
+    nft_data = fetch_nfts_from_mirror_node()
+    nft_data_with_ipfs = fetch_ipfs_metadata(nft_data)
 
-    for token_id in token_ids:
-        nft_data = fetch_nfts_from_mirror_node()
-        nft_data_with_ipfs = fetch_ipfs_metadata(nft_data)
+    for item in nft_data_with_ipfs:
+        item_data = {
+            'serial_number': item['serial_number'],
+            'playable': 1 if is_playable(item) else 0,
+            'tokenId': token_id,
+            'tool': 'test',
+            'forRace': 'test'
+        }
 
-        for item in nft_data_with_ipfs:
-            if token_id == '0.0.2235264':
-                # All NFTs of this token ID are playable and their race is "Mortal"
-                item_data = {
-                    'serial_number': item['serial_number'],
-                    'playable': 1,
-                    'tokenId': token_id,
-                    'race': 'Mortal'
-                }
-            else:
-                # Extract race from attributes for other token IDs
-                race = next((attr['value'] for attr in item['attributes'] if attr['trait_type'] == 'Race'), None)
-
-                item_data = {
-                    'serial_number': item['serial_number'],
-                    'playable': 1 if is_playable(item) else 0,
-                    'tokenId': token_id,
-                    'race': race
-                }
-
-            result_data.append(item_data)
+    result_data.append(item_data)
 
     # Write the data to a JSON file
-    with open('ARGdatamap.json', 'w') as f:
+    with open('test.json', 'w') as f:
         json.dump(result_data, f, indent=2)
 
     # # S3 bucket and object name
