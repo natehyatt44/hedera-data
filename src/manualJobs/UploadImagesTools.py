@@ -150,5 +150,5 @@ if __name__ == "__main__":
     while True:
         main()
         print("Script execution completed. Waiting for 30 minutes before next run.")
-        time.sleep(180)  # Wait for 1800 seconds (30 minutes) before next execution
+        time.sleep(300)  # Wait for 1800 seconds (30 minutes) before next execution
 
