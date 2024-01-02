@@ -6,7 +6,7 @@ import json
 from PIL import Image
 from io import BytesIO
 
-token_id = '0.0.3954030'
+token_id = '0.0.4350721'
 
 def fetch_with_retries(url, max_retries=3):
     retries = 0
@@ -85,8 +85,8 @@ def upload_to_s3(image, bucket, object_name):
     s3_client = boto3.client('s3')
 
     # Upload to both specified directories
-    for directory in ["public/testing/", "public/nft-collections/Tool/images/"]:
-        if directory in ["public/testing/"]:
+    for directory in ["public/data-analytics/", "public/nft-collections/Tool/images/"]:
+        if directory in ["public/data-analytics/"]:
             full_object_name = f"{directory}{token_id}/images/{object_name}"
         else:
             full_object_name = f"{directory}{object_name}"

@@ -6,7 +6,7 @@ import base64
 import boto3
 
 
-token_id = '0.0.3954030'
+token_id = '0.0.4350721'
 s3_bucket = "lost-ones-upload32737-staging"
 s3_object_name = "public/nft-collections/ARGdatamap.json"
 local_json_file = 'ARGdatamap.json'
@@ -78,46 +78,45 @@ def fetch_ipfs_metadata(nft_data):
             ipfs_metadata_response = fetch_with_retries(f'{ipfs_gateway}{nft["ipfsCid"]}')
             ipfs_metadata = ipfs_metadata_response.json()
             nft['edition'] = ipfs_metadata['edition']
-            #nft['attributes'] = ipfs_metadata['attributes']
+            nft['attributes'] = ipfs_metadata['attributes']
     return nft_data
 
 def is_playable(item):
     # Extract the traits for easier checking
-    return 1
-    # traits = {trait['trait_type']: trait['value'] for trait in item['attributes']}
+    traits = {trait['trait_type']: trait['value'] for trait in item['attributes']}
 
-    # if traits.get('Tool') == 'Rocket Boots':
-    #     return traits.get('Background') in ['Grey', 'Light Green']
-    # if traits.get('Tool') == 'Spirit Grimoire':
-    #     return traits.get('Background') in ['Beige', 'Sky Blue']
-    # if traits.get('Tool') == 'Improvised Stun Rod':
-    #     return traits.get('Background') in ['Light Purple', 'Light Blue']
-    # if traits.get('Tool') == 'Mystical Lute':
-    #     return traits.get('Background') in ['Orange', 'Yellow']
-    # if traits.get('Tool') == "Philosophers' Stone":
-    #     return traits.get('Background') in ['Light Blue', 'Sage Green']
-    # if traits.get('Tool') == 'Organic Recon Drone':
-    #     return traits.get('Background') in ['Light Green', 'Yellow']
+    if traits.get('Tool') == 'Rocket Boots':
+        return traits.get('Background') in ['Grey', 'Light Green']
+    if traits.get('Tool') == 'Spirit Grimoire':
+        return traits.get('Background') in ['Beige', 'Sky Blue']
+    if traits.get('Tool') == 'Improvised Stun Rod':
+        return traits.get('Background') in ['Light Purple', 'Light Blue']
+    if traits.get('Tool') == 'Mystical Lute':
+        return traits.get('Background') in ['Orange', 'Yellow']
+    if traits.get('Tool') == "Philosophers' Stone":
+        return traits.get('Background') in ['Light Blue', 'Sage Green']
+    if traits.get('Tool') == 'Organic Recon Drone':
+        return traits.get('Background') in ['Light Green', 'Yellow']
 
-    # # If none of the conditions are met, return False
-    # return False
+    # If none of the conditions are met, return False
+    return False
 
 def forRace(item):
     # Extract the traits for easier checking
-    #traits = {trait['trait_type']: trait['value'] for trait in item['attributes']}
+    traits = {trait['trait_type']: trait['value'] for trait in item['attributes']}
 
-    # if traits.get('Tool') == 'Rocket Boots':
-    #     return 'Mortal'
-    # if traits.get('Tool') == 'Spirit Grimoire':
-    #     return 'Soulweaver'
-    # if traits.get('Tool') == 'Improvised Stun Rod':
-    #     return 'Zephyr'
-    # if traits.get('Tool') == 'Mystical Lute':
-    #     return 'Runekin'
-    # if traits.get('Tool') == 'Philosophers' Stone':
-    #     return 'ArchAngel'
-    # if traits.get('Tool') == 'Organic Recon Drone':
-    #     return 'Gaian'
+    if traits.get('Tool') == 'Rocket Boots':
+        return 'Mortal'
+    if traits.get('Tool') == 'Spirit Grimoire':
+        return 'Soulweaver'
+    if traits.get('Tool') == 'Improvised Stun Rod':
+        return 'Zephyr'
+    if traits.get('Tool') == 'Mystical Lute':
+        return 'Runekin'
+    if traits.get('Tool') == "Philosophers' Stone":
+        return 'ArchAngel'
+    if traits.get('Tool') == 'Organic Recon Drone':
+        return 'Gaian'
 
     return 'Nothing'
 
@@ -164,7 +163,7 @@ def main():
         json.dump(updated_data, f, indent=2)
 
     # Optionally upload the updated file back to S3
-    # upload_file_to_s3('test.json', s3_bucket, s3_object_name)
+    upload_file_to_s3('test.json', s3_bucket, s3_object_name)
 
 
 if __name__ == "__main__":
