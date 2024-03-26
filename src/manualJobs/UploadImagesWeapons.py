@@ -6,9 +6,9 @@ import json
 from PIL import Image
 from io import BytesIO
 
-token_id = '0.0.4350721'
+token_id = '0.0.4605609'
 
-def fetch_with_retries(url, max_retries=3):
+def fetch_with_retries(url, max_retries=100):
     retries = 0
     while retries < max_retries:
         try:
@@ -42,6 +42,7 @@ def fetch_nfts_from_mirror_node(nextUrl=None):
     if 'links' in nfts and 'next' in nfts['links'] and nfts['links']['next'] is not None:
         nft_data.extend(fetch_nfts_from_mirror_node(nfts['links']['next']))
 
+    print (nft_data)
     return nft_data
 
 def fetch_ipfs_metadata(nft_data):
@@ -49,13 +50,16 @@ def fetch_ipfs_metadata(nft_data):
 
     for nft in nft_data:
         if 'ipfsCid' in nft:
+            print (f'{ipfs_gateway}{nft["ipfsCid"]}')
             ipfs_metadata_response = fetch_with_retries(f'{ipfs_gateway}{nft["ipfsCid"]}')
             ipfs_metadata = ipfs_metadata_response.json()
             nft['image'] = ipfs_metadata['image']
             #nft['attributes'] = ipfs_metadata['attributes']
+
+    print (nft_data)
     return nft_data
 
-def download_image(url, max_retries=3):
+def download_image(url, max_retries=10):
     retries = 0
     while retries < max_retries:
         try:
@@ -85,7 +89,7 @@ def upload_to_s3(image, bucket, object_name):
     s3_client = boto3.client('s3')
 
     # Upload to both specified directories
-    for directory in ["public/data-analytics/", "public/nft-collections/Tool/images/"]:
+    for directory in ["public/data-analytics/", "public/nft-collections/Weapon/images/"]:
         if directory in ["public/data-analytics/"]:
             full_object_name = f"{directory}{token_id}/images/{object_name}"
         else:
@@ -108,24 +112,25 @@ def main():
     progress_file = f'upload_progress_{token_id}.json'
     progress_data = load_progress(progress_file)
     s3_bucket = "lost-ones-upload32737-staging"
+    # Perform API calls and save data only if the progress file is empty or does not exist
+    if not progress_data:
+        # Fetch new data
+        nft_data = fetch_nfts_from_mirror_node()
+        nft_data = fetch_ipfs_metadata(nft_data)
 
-    # Fetch new data
-    nft_data = fetch_nfts_from_mirror_node()
-    nft_data = fetch_ipfs_metadata(nft_data)
+        # Update or add new items to progress data
+        for item in nft_data:
+            serial_number = str(item['serial_number'])  # Ensure serial_number is a string
+            if serial_number in progress_data:
+                print(f"Serial number {serial_number} already exists in progress file.")
+            else:
+                print(f"Adding new serial number {serial_number} to progress file.")
+                progress_data[serial_number] = {
+                    'uploaded': False,
+                    'url': item['image']
+                }
 
-    # Update or add new items to progress data
-    for item in nft_data:
-        serial_number = str(item['serial_number'])  # Ensure serial_number is a string
-        if serial_number in progress_data:
-            print(f"Serial number {serial_number} already exists in progress file.")
-        else:
-            print(f"Adding new serial number {serial_number} to progress file.")
-            progress_data[serial_number] = {
-                'uploaded': False,
-                'url': item['image']
-            }
-
-    save_progress(progress_data, progress_file)
+        save_progress(progress_data, progress_file)
 
 
     # Upload images and update progress
@@ -135,7 +140,9 @@ def main():
             continue
 
         try:
+            print(item['url'].replace('ipfs://', 'https://ipfs.io/ipfs/'))
             resized_image = resize_image(download_image(item['url'].replace('ipfs://', 'https://ipfs.io/ipfs/')))
+
             s3_object_name = f"{serial_number}.webp"
             upload_to_s3(resized_image, s3_bucket, s3_object_name)
             progress_data[serial_number]['uploaded'] = True

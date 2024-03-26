@@ -4,9 +4,9 @@ import os
 
 # Function to copy and rename files
 def copy_and_rename_files(folder, file_extension, total_copies):
-    for original_num in range(1, 19):
+    for original_num in range(1, 25):
         for copy_index in range(total_copies):
-            new_num = original_num + copy_index * 18
+            new_num = original_num + copy_index * 24
             if new_num == original_num:  # Skip copying onto itself
                 continue
             original_file = os.path.join(folder, f"{original_num}.{file_extension}")
@@ -27,7 +27,7 @@ image_folder = 'images'
 json_folder = 'json'
 
 # Copy and rename image files
-copy_and_rename_files(image_folder, "png", 12)  # Total of 12 copies including original
+copy_and_rename_files(image_folder, "png", 9)  # Total of 12 copies including original
 
 # Copy and rename json files and update metadata
-copy_and_rename_files(json_folder, "json", 12)  # Total of 12 copies including original
+copy_and_rename_files(json_folder, "json", 9)  # Total of 12 copies including original

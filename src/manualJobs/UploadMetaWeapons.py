@@ -6,7 +6,7 @@ import base64
 import boto3
 
 
-token_id = '0.0.4350721'
+token_id = '0.0.4605609'
 s3_bucket = "lost-ones-upload32737-staging"
 s3_object_name = "public/nft-collections/ARGdatamap.json"
 local_json_file = 'ARGdatamap.json'
@@ -33,7 +33,7 @@ def upload_file_to_s3(file_path, bucket, object_name):
     except Exception as e:
         print(f"Error uploading file to S3: {e}")
 
-def fetch_with_retries(url, max_retries = 3):
+def fetch_with_retries(url, max_retries = 10):
     retries = 0
     while retries < max_retries:
         try:
@@ -62,12 +62,14 @@ def fetch_nfts_from_mirror_node(nextUrl = None):
             serial_number = item['serial_number']
             metadata = base64.b64decode(ipfs_hash).decode('utf-8')
             cid = metadata.replace('ipfs://', '')
+            #if (serial_number in (24,23,22,21,20, 19,18,17,16,15,14,1,2,3,5,6,7,8)):
             nft_data.append({'serial_number': serial_number, 'ipfsCid': cid})
 
     if 'links' in nfts and 'next' in nfts['links']:
         if nfts['links']['next'] != None:
             nft_data.extend(fetch_nfts_from_mirror_node(nfts['links']['next']))
 
+    print (nft_data)
     return nft_data
 
 def fetch_ipfs_metadata(nft_data):
@@ -75,6 +77,7 @@ def fetch_ipfs_metadata(nft_data):
 
     for nft in nft_data:
         if 'ipfsCid' in nft:
+            print(f'{ipfs_gateway}{nft["ipfsCid"]}')
             ipfs_metadata_response = fetch_with_retries(f'{ipfs_gateway}{nft["ipfsCid"]}')
             ipfs_metadata = ipfs_metadata_response.json()
             nft['edition'] = ipfs_metadata['edition']
@@ -85,37 +88,60 @@ def is_playable(item):
     # Extract the traits for easier checking
     traits = {trait['trait_type']: trait['value'] for trait in item['attributes']}
 
-    if traits.get('Tool') == 'Rocket Boots':
-        return traits.get('Background') in ['Grey', 'Light Green']
-    if traits.get('Tool') == 'Spirit Grimoire':
-        return traits.get('Background') in ['Beige', 'Sky Blue']
-    if traits.get('Tool') == 'Improvised Stun Rod':
-        return traits.get('Background') in ['Light Purple', 'Light Blue']
-    if traits.get('Tool') == 'Mystical Lute':
-        return traits.get('Background') in ['Orange', 'Yellow']
-    if traits.get('Tool') == "Philosophers' Stone":
-        return traits.get('Background') in ['Light Blue', 'Sage Green']
-    if traits.get('Tool') == 'Organic Recon Drone':
-        return traits.get('Background') in ['Light Green', 'Yellow']
+    if traits.get('Weapon') == 'Spirit Armor':
+        return traits.get('Background') in ['Black']
+    if traits.get('Weapon') == 'Stasis Cube':
+        return traits.get('Background') in ['Light Blend']
+    if traits.get('Weapon') == 'Soft-Body Curse':
+        return traits.get('Background') in ['Dark Grey']
+    if traits.get('Weapon') == 'Angelic Strike':
+        return traits.get('Background') in ['Grey']
+    if traits.get('Weapon') == "Lightning Claws":
+        return traits.get('Background') in ['Light Purple']
+    if traits.get('Weapon') == 'Micro Burst':
+        return traits.get('Background') in ['Blue']
+    if traits.get('Weapon') == 'Aetherized Apex Rifle':
+        return traits.get('Background') in ['Red']
+    if traits.get('Weapon') == 'Apex Laser Sword':
+        return traits.get('Background') in ['Moss Green']
+    if traits.get('Weapon') == 'Sword of Gabriel':
+        return traits.get('Background') in ['Green']
+    if traits.get('Weapon') == 'Storm Staff':
+        return traits.get('Background') in ['Yellow']
+    if traits.get('Weapon') == "Apex Rifle":
+        return traits.get('Background') in ['Dark Blue']
+    if traits.get('Weapon') == 'Storm Sigil':
+        return traits.get('Background') in ['Blue']
 
     # If none of the conditions are met, return False
     return False
+
+def path(item):
+    # Extract the traits for easier checking
+    traits = {trait['trait_type']: trait['value'] for trait in item['attributes']}
+
+    if traits.get('Weapon') in ('Stasis Cube', 'Aetherized Apex Rifle', 'Lightning Claws', 'Angelic Strike', 'Apex Rifle', 'Storm Sigil'):
+        return 'A'
+    if traits.get('Weapon') in ('Sword of Gabriel', 'Soft-Body Curse', 'Micro Burst', 'Spirit Armor', 'Apex Laser Sword', 'Storm Staff'):
+        return 'B'
+
+    return 'Nothing'
 
 def forRace(item):
     # Extract the traits for easier checking
     traits = {trait['trait_type']: trait['value'] for trait in item['attributes']}
 
-    if traits.get('Tool') == 'Rocket Boots':
-        return 'Mortal'
-    if traits.get('Tool') == 'Spirit Grimoire':
-        return 'Soulweaver'
-    if traits.get('Tool') == 'Improvised Stun Rod':
-        return 'Zephyr'
-    if traits.get('Tool') == 'Mystical Lute':
-        return 'Runekin'
-    if traits.get('Tool') == "Philosophers' Stone":
+    if traits.get('Weapon') in ('Stasis Cube',  "Sword of Gabriel"):
         return 'ArchAngel'
-    if traits.get('Tool') == 'Organic Recon Drone':
+    if traits.get('Weapon') in ('Aetherized Apex Rifle',  "Soft-Body Curse"):
+        return 'Soulweaver'
+    if traits.get('Weapon') in ('Lightning Claws',  "Micro Burst"):
+        return 'Zephyr'
+    if traits.get('Weapon') in ('Angelic Strike',  "Spirit Armor"):
+        return 'Runekin'
+    if traits.get('Weapon') in ('Apex Rifle',  "Apex Laser Sword"):
+        return 'Mortal'
+    if traits.get('Weapon') in ('Storm Sigil',  "Storm Staff"):
         return 'Gaian'
 
     return 'Nothing'
@@ -148,8 +174,9 @@ def main():
             'serial_number': item['serial_number'],
             'playable': 1 if is_playable(item) else 0,
             'tokenId': token_id,
-            'type': 'Tool',
-            'forRace': forRace(item)
+            'type': 'Weapon',
+            'forRace': forRace(item),
+            'path': path(item)
         }
         result_data.append(item_data)
 
