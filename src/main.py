@@ -15,7 +15,7 @@ MARKET_SENTX = '0.0.1064038'
 
 
 def main():
-    token_ids = [TOKEN_CFP, TOKEN_AIRDROP, TOKEN_LOSTONES, TOKEN_ARTHOUSE_TRIZTAZZ, TOKEN_TOOLS]
+    token_ids = [TOKEN_CFP, TOKEN_AIRDROP, TOKEN_LOSTONES, TOKEN_ARTHOUSE_CR, TOKEN_TOOLS]
     market_ids = [MARKET_ZUSE, MARKET_SENTX]
     for token_id in token_ids:
         pipelineNftListing.execute(token_id)
